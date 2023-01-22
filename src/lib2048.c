@@ -4,7 +4,7 @@
 
 Board new_game( void )
 {
-    Board board = 0ull;
+    Board board = 0xfedull;
     return board;
 }
 Board move( Board board, Direction direction )
